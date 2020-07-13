@@ -1,7 +1,7 @@
 # Web Workers Demo
 Migrate Long Running JS onto a Web Worker
 
-### [Relevant Quiz from Browser Rendering Optimization](https://www.udacity.com/course/viewer#!/c-ud860/l-4138168623/e-4184098558/m-4150829139)
+### [Relevant Quiz from Browser Rendering Optimization](https://classroom.udacity.com/courses/ud860/lessons/4138168623/concepts/41840985580923)
 
 ### [Relevant solution from Browser Rendering Optimization](https://www.udacity.com/course/viewer#!/c-ud860/l-4138168623/e-4184098558/m-4146278980)
 
